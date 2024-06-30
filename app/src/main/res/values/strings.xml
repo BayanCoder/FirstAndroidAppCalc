@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Calc</string>
+    <string-array name="operators_array">
+            <item>חיבור</item>
+            <item>חיסור</item>
+            <item>כפל</item>
+            <item>חילוק</item>
+            <item>חזקה</item>
+    </string-array>
+
+
+</resources>
